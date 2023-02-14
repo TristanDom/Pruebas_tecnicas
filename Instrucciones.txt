@@ -2,12 +2,11 @@ En esta carpeta se encuentran programas los cuales están basados en pruebas té
 
 En esta recopilación de problemáticas están resueltas con python 3 y comentadas con el fin de un mayor entendimiento, se encuentran las siguientes problemáticas:
 
-1. Problema de la suma de palabras repetidas en un string.
-2. Problema de multiplicar números sin utilizar el operador de multiplicación.
-3. ...
-
 Los problemas aquí mostrados se actualizarán en la medida de lo posible para mayor preparación.
 
 Se recomienda resolver estas pruebas técnicas de manera independiente sin la ayuda mas que de la
 documentaicón de python o de la tecnología en la cual se está basado el problema.
 
+Cualquier duda o comentario puedes contactarte conmigo por medio de github donde me encuentras como "TristanDom".
+
+Nota: Algunas problemáticas no son de mi autoría pero la resolución de la misma sí.
