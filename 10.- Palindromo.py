@@ -11,6 +11,6 @@ def es_palindromo(pal): #Se crea la función "es_palindromo"
     if pal == invert: #Evalúa si la palabra inversa y original son iguales.
         return True #Si la palabra es palíndromo retorna True.
     else: #En otro caso que la palabra inversa no sea igual a la original.
-        return False #Retorna False.
+        return False #Retorna False de no ser palíndromo.
     
 print(es_palindromo(palabra)) #Llama a la función e imprime lo que retorne la misma.
