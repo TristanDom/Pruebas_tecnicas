@@ -10,7 +10,7 @@ def max_de_tres(val1, val2, val3): #Se declara el la función del mayor de los t
     elif val3 > val1 and val3 > val2: #Evalúa si el tercer es el siguiente.
         print("El tercer valor es el mayor: ", val3) #Imprime que el valor tercer valor es el mayor.
     else: #En caso que ninguo sea mayor que otro los tres son del mismo tamaño por lo tanto son iguales.
-        print("Los tres números son iguales: ", val1) #Imprime que los tres valores son iguales.
+        print("Los tres números son iguales: ", val1, val2, val3) #Imprime que los tres valores son iguales.
 
 while True:
     num1 = input("Digita el primer valor: ") #Se realiza input del primer valor.
